@@ -1,0 +1,1 @@
+bitarray.o: ../bitarray.c
